@@ -1,0 +1,5 @@
+pyGeoIP -> a function to map an IP address to a two letter country code in ISO format.
+
+Relies on a small database file that is included, and only has be loaded once.
+
+
